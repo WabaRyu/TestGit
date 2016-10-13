@@ -1,3 +1,7 @@
+# First Example : KmeansClustering.py
+# Clustering : K-means Implementation using Tensorflow 0.10.0 (Python3.4)
+
+
 import numpy as np
 
 num_points = 3000
