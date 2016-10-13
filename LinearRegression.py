@@ -1,3 +1,7 @@
+# Second Example : LinearRegression.py
+# Regression : Simple Linear Regression Implementation using Tensorflow 0.10.0 (Python3.4)
+
+
 import numpy as np
 import tensorflow as tf
 
